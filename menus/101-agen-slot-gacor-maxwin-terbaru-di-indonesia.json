@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 101-agen-slot-gacor-maxwin-terbaru-di-indonesia",
+        "command": "101-agen-slot-gacor-maxwin-terbaru-di-indonesia:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "101-agen-slot-gacor-maxwin-terbaru-di-indonesia",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "101-agen-slot-gacor-maxwin-terbaru-di-indonesia:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
